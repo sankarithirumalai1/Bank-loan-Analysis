@@ -99,7 +99,7 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 <img width="1432" height="803" alt="Details" src="https://github.com/user-attachments/assets/0e11143d-a46b-42a4-9534-b9bd4b81968e" />
 
 ## Conclusion
-This project shows my ability to use SQL and Power BI along with banking knowledge to analyze loan data, generate insights, and support better business decisions.
+To improve the overall loan performance and reduce financial risk, banks should focus on identifying high-risk borrowers using key indicators such as Debt-to-Income (DTI) ratio, credit history, and loan purpose. The analysis shows that monitoring Good vs Bad loans, repayment trends, and regional patterns can help in making better lending decisions.
 
 
 
