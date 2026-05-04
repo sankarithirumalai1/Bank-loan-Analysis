@@ -93,5 +93,11 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 - Ensured data accuracy, consistency, and business alignment
 - Delivered insights to support risk assessment, decision-making, and portfolio monitoring
 
+## Dashboard
+- <a href="https://github.com/sankarithirumalai1/Bank-loan-Analysis/blob/main/Summary.png">Summary Dasboard</a>
+- <a href="https://github.com/sankarithirumalai1/Bank-loan-Analysis/blob/main/Overview.png">Overview Dasboard</a>
+- <a href="https://github.com/sankarithirumalai1/Bank-loan-Analysis/blob/main/Details.png">Detail Dasboardt</a>
+
+
 
 
