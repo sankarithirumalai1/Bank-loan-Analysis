@@ -53,4 +53,42 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 - Complete loan-level dataset view
 - Borrower and loan performance insights
 
+## Skills & Concepts Applied
+ ## SQL (MS SQL Server)
+- Designed and structured a relational database model to support scalable loan analytics and reporting
+- Developed and optimized complex SQL queries using joins, aggregations, CTEs, and window functions for large datasets
+- Improved data retrieval performance by 30–40% through query tuning and efficient data handling techniques
+- Built robust data transformation pipelines to deliver clean, consistent, and analysis-ready datasets
+- Ensured 100% data consistency and integrity across reporting layers by standardizing transformation logic
+- Enhanced overall reporting efficiency by optimizing query execution and reducing data processing time
+
+ ## Power BI – Data Preparation
+- Connected to SQL Server database
+- Performed data cleaning using Power Query
+- Created date tables for time-based analysis
+- Built optimized data models with relationships
+  
+  ## Power BI – Data Modeling & DAX
+- Created calculated columns and measures using DAX
+- Implemented Time Intelligence functions (MTD, MoM) improving trend analysis efficiency by 35%
+- Developed KPIs for business metrics
+- Used filter and aggregation functions for dynamic analysis
+  ## Power BI – Advanced Features
+- Used Edit Interactions to control visual behavior
+- Implemented Slicers for dynamic filtering
+- Created Field Parameters for dynamic measure/dimension switching
+- Applied Data Grouping for better data categorization
+- Designed Page Navigation for smooth user experience
+- Built interactive dashboards with drill-down capabilities
+  ## Data Analysis Concepts
+- KPI tracking and performance monitoring
+- Good vs Bad Loan classification
+- Trend analysis and seasonality detection
+- Financial metrics evaluation (Interest Rate, DTI)
+ ## End-to-End Data Solution Delivery
+- Managed complete lifecycle: data extraction → transformation → modeling → visualization
+- Ensured data accuracy, consistency, and business alignment
+- Delivered insights to support risk assessment, decision-making, and portfolio monitoring
+
+
 
