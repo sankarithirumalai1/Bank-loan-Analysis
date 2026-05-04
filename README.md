@@ -23,7 +23,7 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 4. DAX measures created for KPI calculations
 5. Interactive dashboards developed
 
-## Dashboard Insights
+## Project Insights
 
 ## Dashboard 1: Summary
 
@@ -98,6 +98,8 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 <img width="1435" height="800" alt="Overview" src="https://github.com/user-attachments/assets/049aefcc-45ed-4f5b-9910-d30260a9422e" />
 <img width="1432" height="803" alt="Details" src="https://github.com/user-attachments/assets/0e11143d-a46b-42a4-9534-b9bd4b81968e" />
 
+## Conclusion
+This project shows my ability to use SQL and Power BI along with banking knowledge to analyze loan data, generate insights, and support better business decisions.
 
 
 
