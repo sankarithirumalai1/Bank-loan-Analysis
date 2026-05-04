@@ -23,40 +23,32 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 4. DAX measures created for KPI calculations
 5. Interactive dashboards developed
 
-## Project Insights
-
-## Dashboard 1: Summary
-
-- Total Loan Applications (MTD, MoM)
-- Total Funded Amount
-- Total Amount Received
-- Average Interest Rate
-- Average Debt-to-Income Ratio (DTI)
-
- Good vs Bad Loan Analysis
-
-- Good Loan % and Applications
-- Bad Loan % and Applications
-- Funded vs Received Amount
-
-## Dashboard 2: Overview
-
-- Monthly Loan Trends (Seasonality Analysis)
-- Regional Lending Analysis
-- Loan Term Distribution
-- Employment Length Impact
-- Loan Purpose Breakdown
-- Home Ownership Analysis
-
-## Dashboard 3: Details
-
-- Complete loan-level dataset view
-- Borrower and loan performance insights
-
-## Dashboard
+## Dashboard Reports
 <img width="1431" height="797" alt="Summary" src="https://github.com/user-attachments/assets/11af1c09-bb5f-4273-9c8e-580246e527df" />
 <img width="1435" height="800" alt="Overview" src="https://github.com/user-attachments/assets/049aefcc-45ed-4f5b-9910-d30260a9422e" />
 <img width="1432" height="803" alt="Details" src="https://github.com/user-attachments/assets/0e11143d-a46b-42a4-9534-b9bd4b81968e" />
+
+## Project Insights
+## Summary Dashboard Insights
+- The overall loan portfolio shows stable growth in applications and funded amount, with consistent Month-to-Date (MTD) and Month-over-Month (MoM) trends
+- Total amount received is slightly lower than funded amount, indicating expected repayment cycles but also highlighting areas to monitor for delays
+- Average interest rate remains consistent, showing controlled lending policies
+- Borrowers with higher DTI ratios are more likely to fall under bad loans, indicating higher financial risk
+- Good loans dominate the portfolio, but bad loans contribute significantly to repayment gaps
+  
+## Overview Dashboard Insights
+- Monthly trend analysis reveals seasonal spikes in loan applications, indicating periods of high borrowing demand
+- Regional analysis shows certain states contributing higher loan volumes, helping identify key markets
+- Loan term distribution indicates borrower preference for specific tenure ranges, useful for product planning
+- Borrowers with longer employment history tend to have better repayment behavior
+- Loan purpose analysis highlights major reasons for borrowing, helping in targeted offerings
+- Home ownership analysis shows that owners generally have lower default risk compared to non-owners
+
+## Details Dashboard Insights
+- Detailed view helps identify high-risk individual loans based on DTI, loan status, and repayment patterns
+- Enables tracking of loan-level performance, including funded vs received amounts
+- Helps in detecting delayed payments and potential defaults early
+- Supports deeper analysis of borrower profiles and loan behavior for decision-making
 
 ## Skills & Concepts Applied
 ## SQL (MS SQL Server)
