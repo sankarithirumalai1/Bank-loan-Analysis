@@ -53,6 +53,11 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 - Complete loan-level dataset view
 - Borrower and loan performance insights
 
+## Dashboard
+<img width="1431" height="797" alt="Summary" src="https://github.com/user-attachments/assets/11af1c09-bb5f-4273-9c8e-580246e527df" />
+<img width="1435" height="800" alt="Overview" src="https://github.com/user-attachments/assets/049aefcc-45ed-4f5b-9910-d30260a9422e" />
+<img width="1432" height="803" alt="Details" src="https://github.com/user-attachments/assets/0e11143d-a46b-42a4-9534-b9bd4b81968e" />
+
 ## Skills & Concepts Applied
 ## SQL (MS SQL Server)
 - Designed and structured a relational database model to support scalable loan analytics and reporting
@@ -92,11 +97,6 @@ This project focuses on analyzing bank loan data to evaluate lending performance
 - Managed complete lifecycle: data extraction → transformation → modeling → visualization
 - Ensured data accuracy, consistency, and business alignment
 - Delivered insights to support risk assessment, decision-making, and portfolio monitoring
-
-## Dashboard
-<img width="1431" height="797" alt="Summary" src="https://github.com/user-attachments/assets/11af1c09-bb5f-4273-9c8e-580246e527df" />
-<img width="1435" height="800" alt="Overview" src="https://github.com/user-attachments/assets/049aefcc-45ed-4f5b-9910-d30260a9422e" />
-<img width="1432" height="803" alt="Details" src="https://github.com/user-attachments/assets/0e11143d-a46b-42a4-9534-b9bd4b81968e" />
 
 ## Conclusion
 To improve the overall loan performance and reduce financial risk, banks should focus on identifying high-risk borrowers using key indicators such as Debt-to-Income (DTI) ratio, credit history, and loan purpose. The analysis shows that monitoring Good vs Bad loans, repayment trends, and regional patterns can help in making better lending decisions.
